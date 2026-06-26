@@ -1,6 +1,6 @@
-# Diamond-Hands-MCP_BRIDGE
+# Diamond-Hands-MCP
 
-Public Robinhood-first bridge CLI for market intelligence and private connector handoff.
+A Robinhood-first bridge CLI for market intelligence and private connector handoff.
 
 DMNDHNDS is not Financial Advice. Use at your own Risk. Don't end up being the exit liquidity. Paper trade your algos, back-test, use this to build and strengthen your alpha and MCP connectors.
 
